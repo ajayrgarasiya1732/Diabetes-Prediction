@@ -1,0 +1,1 @@
+streamlit run /Users/ajaygarasiya/Desktop/Diabetes_Prediction_web_app.py
